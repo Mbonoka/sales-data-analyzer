@@ -18,6 +18,12 @@ This project cleans raw sales data and generates insights such as total revenue 
 2. Run:
    python src/analyze.py
 
+## 🌐 Dashboard
+This project includes an interactive dashboard built with Streamlit.
+
+Run:
+streamlit run app.py
+
 ## 📊 Results
 - Total revenue calculated
 - Revenue by product visualized
