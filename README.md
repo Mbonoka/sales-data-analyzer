@@ -29,10 +29,3 @@ streamlit run app.py
 - Revenue by product visualized
 - Chart saved in `outputs/`
 
-## 🔥 Bonus Improvements
-To enhance functionality and real-world usability:
-
-### ✅ Export Results
-The project can export summarized insights to a CSV file:
-```python
-revenue_by_product.to_csv("outputs/revenue_summary.csv")
